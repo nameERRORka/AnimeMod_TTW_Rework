@@ -1,0 +1,16 @@
+[
+{
+  "modid": "HT_REBORN",
+  "name": "HiTech TikTokWorld Reborn",
+  "description": "Специальный мод, расширяющий геймплей и однотипность...",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FCORETOP"],
+  "credits": "Создано персонально для проекта TikTokWorld © 2020 FCORECode™",
+  "logoFile": "logo4all.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
